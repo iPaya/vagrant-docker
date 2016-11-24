@@ -21,5 +21,5 @@ cd vagrant-docker && vagrant up
 
 ### 4. 打包并添加到 box
 ```bash
-vagrant package && vagrant box add aPaya/docker package.box
+vagrant package && vagrant box add iPaya/docker package.box
 ```
