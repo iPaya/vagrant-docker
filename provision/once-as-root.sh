@@ -20,5 +20,4 @@ echo "Done!"
 
 info "Install Docker"
 curl -sSL http://acs-public-mirror.oss-cn-hangzhou.aliyuncs.com/docker-engine/internet | sh -
-usermod -aG docker vagrant
 echo "Done!"
